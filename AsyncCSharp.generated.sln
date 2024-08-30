@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async.Console.Exceptions", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async.Console.Cancellation", "Async.Console.Cancellation\Async.Console.Cancellation.csproj", "{D7C4492E-55FC-4D47-91B5-3438A3AE8590}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async.Console.TaskProgress", "Async.Console.TaskProgress\Async.Console.TaskProgress.csproj", "{EE2DA24D-597E-4969-BA39-18271FF1E467}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D7C4492E-55FC-4D47-91B5-3438A3AE8590}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7C4492E-55FC-4D47-91B5-3438A3AE8590}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7C4492E-55FC-4D47-91B5-3438A3AE8590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2DA24D-597E-4969-BA39-18271FF1E467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2DA24D-597E-4969-BA39-18271FF1E467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2DA24D-597E-4969-BA39-18271FF1E467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2DA24D-597E-4969-BA39-18271FF1E467}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
