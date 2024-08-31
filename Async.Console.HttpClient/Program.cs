@@ -1,8 +1,5 @@
 ﻿Console.WriteLine("Program executing...");
 
-
-
-
 //this is blocking
 /*
 var responseTask = new HttpClient().GetAsync("http://www.fark.com");
